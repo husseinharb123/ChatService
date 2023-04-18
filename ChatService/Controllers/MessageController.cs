@@ -93,10 +93,10 @@ namespace ChatService.Web.Controllers
             catch (HttpException ex)
             {
 
-                //if (ex.StatusCode == 404)
-                //{
-                //    return NotFound(ex.Message);
-                //}
+                ////if (ex.StatusCode == 404)
+                ////{
+                ////    return NotFound(ex.Message);
+                ////}
 
                     throw; 
 
